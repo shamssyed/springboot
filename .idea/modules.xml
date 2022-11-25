@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lesson-hello/lesson-hello.iml" filepath="$PROJECT_DIR$/lesson-hello/lesson-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-hello/twtr-kafka-service/twtr-kafka-service.iml" filepath="$PROJECT_DIR$/lesson-hello/twtr-kafka-service/twtr-kafka-service.iml" />
     </modules>
   </component>
 </project>

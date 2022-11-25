@@ -1,0 +1,9 @@
+twtr-to-kafka-svc:
+  twtr-search-keywords:
+    - Java
+    - Kafka
+    - Spring
+    - Elastic Search
+    - Micro services
+  startupMessage:
+    Hello World
